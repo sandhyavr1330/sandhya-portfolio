@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sandhya's Web Page</title>
+    <style>
+        body {
+            background-color: #f9f9f9;
+            font-family: Arial, sans-serif;
+            padding: 20px;
+        }
+        h1 {
+            color: #4CAF50;
+        }
+        p {
+            font-size: 18px;
+        }
+        ul {
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Welcome to My Web Page</h1>
+    <p>Hello! My name is Sandhya. I am learning HTML and this is my first web page.</p>
+
+    <h2>About Me</h2>
+    <p>I am an Electronics and Communication Engineering student interested in web development and testing.</p>
+
+    <h2>My Skills</h2>
+    <ul>
+        <li>Manual Testing</li>
+        <li>HTML & CSS</li>
+        <li>Python (Basics)</li>
+    </ul>
+
+    <h2>Contact</h2>
+    <p>Email: sandhyavr1330@gmail.com</p>
+
+</body>
+</html>
